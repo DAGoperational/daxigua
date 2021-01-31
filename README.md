@@ -1,17 +1,5 @@
 ## 合成大西瓜
 
-未修改版源码，可直接在浏览器运行。
-
-详细教程：https://mp.weixin.qq.com/s/H9VR1MWn-9bKSC_1l_MkJw
-
-在线玩：[https://daxigua.liyupi.com](https://daxigua.liyupi.com)
-
-看了下源码，改分数还是挺简单的，就也做了魔改版~ 输入分数加成（纯数字）即可，输入 1 为原版
-
-魔改版在线玩：[https://dadaxigua.liyupi.com](https://dadaxigua.liyupi.com)
-
-![秀爆朋友圈](./assets/dadaxigua.png)
-
 ### 本地启动
 
 1. 安装 serve 工具：
