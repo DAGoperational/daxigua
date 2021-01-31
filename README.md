@@ -54,10 +54,6 @@ a.default.score += this.fruitNumber + extraScore
 
 ### 发布上线
 
-在本地修改好代码后，怎么发布到网上供其他人访问呢？
-
-这里提供最简单的两种方法，不需要购买域名，也不需要买服务器！用户量不大的话，完全免费！
-
 1. 使用 Vercel，在网页 index.html 文件所在目录通过一行命令即可自动发布到它提供的服务器并生成可访问的网址，还能和自己的域名绑定！（我的魔改版就是这么发布的）
 
 2. 使用腾讯云静态网站托管服务，下载官方工具，也是一行命令，即可发布至腾讯云服务器！
@@ -67,5 +63,3 @@ a.default.score += this.fruitNumber + extraScore
 腾讯云静态托管：[docsify+云开发，高效创造你的文档网站​](https://mp.weixin.qq.com/s/Noe90mhVssuBcySyb6TTNA)
 
 Vercel：[尝鲜 Svelte 新框架，动手开发读书笔记](https://mp.weixin.qq.com/s/W-TWxOJTr4gSQkCyIquNuA)
-
-后面会给大家出详细的独立部署教程！
